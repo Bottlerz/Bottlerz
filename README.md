@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bottlerz
-- 👀 I’m interested in Tech as a whole 
-- 🌱 I’m currently learning in MMUST
+- 👀 Girl in tech 
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me ..
 
