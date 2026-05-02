@@ -3,12 +3,14 @@ Hi, I'm Bottler Perez
 I'm a passionate Full-Stack Developer & Designer from Nairobi, Kenya, specializing in building cross-platform apps, web applications, and sleek UI/UX designs. I love turning ideas into pixel-perfect digital experiences and exploring emerging tech like AI, IoT, and Blockchain.  
 
  Skills & Tools
+ 
 Languages
 •  Python
 • Dart
 • JavaScript
 • HTML
 • CSS 
+
 Frameworks
 • Flutter
 • Django
@@ -16,18 +18,22 @@ Frameworks
 • Next.js
 • Node.js
 • Tailwind CSS
+
 Databases
 • MySQL
 • PostgreSQL
 • MongoDB
 • Oracle
+
 Cloud / API
 • Firebase
 • REST API Integration
+
 DevOps
 • Git
 • GitHub
 • Agile / Scrum
+
 Design
 • Figma
 • Adobe Suite (Illustrator
@@ -35,6 +41,7 @@ Design
 • InDesign)
 • Canva
 • CorelDraw
+
 Web Tools
 • WordPress
 • Wix
